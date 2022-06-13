@@ -4,4 +4,4 @@
     <p>Je vous souhaite un bon POEC à tout les deux.</p>
     <p>Avec git on va s'amuser.</p>
     <p>Pause café dans 15 minutes !!! :)</p>
-    
+    <p>Heureusement, avec le bon temps on pourrait pas rester devant les écrans </p>    
