@@ -1,0 +1,4 @@
+    <title>Cadavre exquis</title>
+
+    <h1>Bonjour à tous</h1>
+    <p>Je vous souhaite un bon POEC à tout les deux.</p>
